@@ -4,7 +4,7 @@ This web app takes a PDF resume downloaded from LinkedIn, extracts the text, and
 
 ## Live Demo
 
-[View the deployed app here]
+[View the deployed app here](https://pdf-to-html-tamsyidwjjlsmqpzz2ekdz.streamlit.app)
 
 ## How to Use
 1. Enter your OpenAI API key.
